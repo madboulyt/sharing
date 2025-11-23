@@ -1,229 +1,58 @@
 GOOD
   "categories": [
-    {
-      "id": 0,
-      "name": "Caption"
-    },
-    {
-      "id": 1,
-      "name": "Footnote"
-    },
-    {
-      "id": 2,
-      "name": "Formula"
-    },
-    {
-      "id": 3,
-      "name": "List-item"
-    },
-    {
-      "id": 4,
-      "name": "Page-footer"
-    },
-    {
-      "id": 5,
-      "name": "Page-header"
-    },
-    {
-      "id": 6,
-      "name": "Picture"
-    },
-    {
-      "id": 7,
-      "name": "Section-header"
-    },
-    {
-      "id": 8,
-      "name": "Table"
-    },
-    {
-      "id": 9,
-      "name": "Text"
-    },
-    {
-      "id": 10,
-      "name": "Title"
-    },
-    {
-      "id": 11,
-      "name": "Barcode"
-    },
-    {
-      "id": 12,
-      "name": "Stamps"
-    },
-    {
-      "id": 13,
-      "name": "Confidentiality-or-urgency"
-    },
-    {
-      "id": 14,
-      "name": "Enitity-Sticker"
-    },
-    {
-      "id": 15,
-      "name": "Entity"
-    },
-    {
-      "id": 16,
-      "name": "Financial-Committee-Sticker"
-    },
-    {
-      "id": 17,
-      "name": "To-Passage"
-    },
-    {
-      "id": 18,
-      "name": "Enitity-Sticker-Number"
-    },
-    {
-      "id": 19,
-      "name": "Enitity-Sticker-Date"
-    },
-    {
-      "id": 20,
-      "name": "Signature"
-    },
-    {
-      "id": 21,
-      "name": "Classification-Right-Side"
-    },
-    {
-      "id": 22,
-      "name": "Doc-Type"
-    },
-    {
-      "id": 23,
-      "name": "Fc-Sticker-Number"
-    },
-    {
-      "id": 24,
-      "name": "Fc-Sticker-Date"
-    }
+    { "id": 0, "name": "Caption" },
+    { "id": 1, "name": "Footnote" },
+    { "id": 2, "name": "Formula" },
+    { "id": 3, "name": "List-item" },
+    { "id": 4, "name": "Page-footer" },
+    { "id": 5, "name": "Page-header" },
+    { "id": 6, "name": "Picture" },
+    { "id": 7, "name": "Section-header" },
+    { "id": 8, "name": "Table" },
+    { "id": 9, "name": "Text" },
+    { "id": 10, "name": "Title" },
+    { "id": 11, "name": "Barcode" },
+    { "id": 12, "name": "Stamps" },
+    { "id": 13, "name": "Confidentiality-or-urgency" },
+    { "id": 14, "name": "Enitity-Sticker" },
+    { "id": 15, "name": "Entity" },
+    { "id": 16, "name": "Financial-Committee-Sticker" },
+    { "id": 17, "name": "To-Passage" },
+    { "id": 18, "name": "Enitity-Sticker-Number" },
+    { "id": 19, "name": "Enitity-Sticker-Date" },
+    { "id": 20, "name": "Signature" },
+    { "id": 21, "name": "Classification-Right-Side" },
+    { "id": 22, "name": "Doc-Type" },
+    { "id": 23, "name": "Fc-Sticker-Number" },
+    { "id": 24, "name": "Fc-Sticker-Date" }
   ],
 
 
 
 BAD
 "categories": [
-        {
-            "id": 1,
-            "name": "text",
-            "supercategory": ""
-        },
-        {
-            "id": 2,
-            "name": "Section-header",
-            "supercategory": ""
-        },
-        {
-            "id": 3,
-            "name": "Title",
-            "supercategory": ""
-        },
-        {
-            "id": 4,
-            "name": "list-item",
-            "supercategory": ""
-        },
-        {
-            "id": 5,
-            "name": "Picture",
-            "supercategory": ""
-        },
-        {
-            "id": 6,
-            "name": "Table",
-            "supercategory": ""
-        },
-        {
-            "id": 7,
-            "name": "Caption",
-            "supercategory": ""
-        },
-        {
-            "id": 8,
-            "name": "Page-footer",
-            "supercategory": ""
-        },
-        {
-            "id": 9,
-            "name": "confidentiality-or-urgency",
-            "supercategory": ""
-        },
-        {
-            "id": 10,
-            "name": "Entity",
-            "supercategory": ""
-        },
-        {
-            "id": 11,
-            "name": "entity-sticker",
-            "supercategory": ""
-        },
-        {
-            "id": 12,
-            "name": "entity-sticker-number",
-            "supercategory": ""
-        },
-        {
-            "id": 13,
-            "name": "entity-sticker-date",
-            "supercategory": ""
-        },
-        {
-            "id": 14,
-            "name": "Barcode",
-            "supercategory": ""
-        },
-        {
-            "id": 15,
-            "name": "financial-committee-sticker",
-            "supercategory": ""
-        },
-        {
-            "id": 16,
-            "name": "fc_sticker_number",
-            "supercategory": ""
-        },
-        {
-            "id": 17,
-            "name": "fc_sticker_date",
-            "supercategory": ""
-        },
-        {
-            "id": 18,
-            "name": "stamps",
-            "supercategory": ""
-        },
-        {
-            "id": 19,
-            "name": "signature",
-            "supercategory": ""
-        },
-        {
-            "id": 20,
-            "name": "classification",
-            "supercategory": ""
-        },
-        {
-            "id": 21,
-            "name": "to_passage",
-            "supercategory": ""
-        },
-        {
-            "id": 22,
-            "name": "doc_type",
-            "supercategory": ""
-        },
-        {
-            "id": 23,
-            "name": "ignored",
-            "supercategory": ""
-        },
-        {
-            "id": 24,
-            "name": "White page",
-            "supercategory": ""
-        }
-    ],
+    { "id": 1, "name": "text" },
+    { "id": 2, "name": "Section-header" },
+    { "id": 3, "name": "Title" },
+    { "id": 4, "name": "list-item" },
+    { "id": 5, "name": "Picture" },
+    { "id": 6, "name": "Table" },
+    { "id": 7, "name": "Caption" },
+    { "id": 8, "name": "Page-footer" },
+    { "id": 9, "name": "confidentiality-or-urgency" },
+    { "id": 10, "name": "Entity" },
+    { "id": 11, "name": "entity-sticker" },
+    { "id": 12, "name": "entity-sticker-number" },
+    { "id": 13, "name": "entity-sticker-date" },
+    { "id": 14, "name": "Barcode" },
+    { "id": 15, "name": "financial-committee-sticker" },
+    { "id": 16, "name": "fc_sticker_number" },
+    { "id": 17, "name": "fc_sticker_date" },
+    { "id": 18, "name": "stamps" },
+    { "id": 19, "name": "signature" },
+    { "id": 20, "name": "classification" },
+    { "id": 21, "name": "to_passage" },
+    { "id": 22, "name": "doc_type" },
+    { "id": 23, "name": "ignored" },
+    { "id": 24, "name": "White page" }
+],

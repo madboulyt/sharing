@@ -1,0 +1,122 @@
+    "categories": [
+        {
+            "id": 1,
+            "name": "text",
+            "supercategory": ""
+        },
+        {
+            "id": 2,
+            "name": "Section-header",
+            "supercategory": ""
+        },
+        {
+            "id": 3,
+            "name": "Title",
+            "supercategory": ""
+        },
+        {
+            "id": 4,
+            "name": "list-item",
+            "supercategory": ""
+        },
+        {
+            "id": 5,
+            "name": "Picture",
+            "supercategory": ""
+        },
+        {
+            "id": 6,
+            "name": "Table",
+            "supercategory": ""
+        },
+        {
+            "id": 7,
+            "name": "Caption",
+            "supercategory": ""
+        },
+        {
+            "id": 8,
+            "name": "Page-footer",
+            "supercategory": ""
+        },
+        {
+            "id": 9,
+            "name": "confidentiality-or-urgency",
+            "supercategory": ""
+        },
+        {
+            "id": 10,
+            "name": "Entity",
+            "supercategory": ""
+        },
+        {
+            "id": 11,
+            "name": "entity-sticker",
+            "supercategory": ""
+        },
+        {
+            "id": 12,
+            "name": "entity-sticker-number",
+            "supercategory": ""
+        },
+        {
+            "id": 13,
+            "name": "entity-sticker-date",
+            "supercategory": ""
+        },
+        {
+            "id": 14,
+            "name": "Barcode",
+            "supercategory": ""
+        },
+        {
+            "id": 15,
+            "name": "financial-committee-sticker",
+            "supercategory": ""
+        },
+        {
+            "id": 16,
+            "name": "fc_sticker_number",
+            "supercategory": ""
+        },
+        {
+            "id": 17,
+            "name": "fc_sticker_date",
+            "supercategory": ""
+        },
+        {
+            "id": 18,
+            "name": "stamps",
+            "supercategory": ""
+        },
+        {
+            "id": 19,
+            "name": "signature",
+            "supercategory": ""
+        },
+        {
+            "id": 20,
+            "name": "classification",
+            "supercategory": ""
+        },
+        {
+            "id": 21,
+            "name": "to_passage",
+            "supercategory": ""
+        },
+        {
+            "id": 22,
+            "name": "doc_type",
+            "supercategory": ""
+        },
+        {
+            "id": 23,
+            "name": "ignored",
+            "supercategory": ""
+        },
+        {
+            "id": 24,
+            "name": "White page",
+            "supercategory": ""
+        }
+    ],

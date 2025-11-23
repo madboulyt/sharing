@@ -1,4 +1,111 @@
-    "categories": [
+GOOD
+  "categories": [
+    {
+      "id": 0,
+      "name": "Caption"
+    },
+    {
+      "id": 1,
+      "name": "Footnote"
+    },
+    {
+      "id": 2,
+      "name": "Formula"
+    },
+    {
+      "id": 3,
+      "name": "List-item"
+    },
+    {
+      "id": 4,
+      "name": "Page-footer"
+    },
+    {
+      "id": 5,
+      "name": "Page-header"
+    },
+    {
+      "id": 6,
+      "name": "Picture"
+    },
+    {
+      "id": 7,
+      "name": "Section-header"
+    },
+    {
+      "id": 8,
+      "name": "Table"
+    },
+    {
+      "id": 9,
+      "name": "Text"
+    },
+    {
+      "id": 10,
+      "name": "Title"
+    },
+    {
+      "id": 11,
+      "name": "Barcode"
+    },
+    {
+      "id": 12,
+      "name": "Stamps"
+    },
+    {
+      "id": 13,
+      "name": "Confidentiality-or-urgency"
+    },
+    {
+      "id": 14,
+      "name": "Enitity-Sticker"
+    },
+    {
+      "id": 15,
+      "name": "Entity"
+    },
+    {
+      "id": 16,
+      "name": "Financial-Committee-Sticker"
+    },
+    {
+      "id": 17,
+      "name": "To-Passage"
+    },
+    {
+      "id": 18,
+      "name": "Enitity-Sticker-Number"
+    },
+    {
+      "id": 19,
+      "name": "Enitity-Sticker-Date"
+    },
+    {
+      "id": 20,
+      "name": "Signature"
+    },
+    {
+      "id": 21,
+      "name": "Classification-Right-Side"
+    },
+    {
+      "id": 22,
+      "name": "Doc-Type"
+    },
+    {
+      "id": 23,
+      "name": "Fc-Sticker-Number"
+    },
+    {
+      "id": 24,
+      "name": "Fc-Sticker-Date"
+    }
+  ],
+
+
+
+BAD
+"categories": [
         {
             "id": 1,
             "name": "text",
